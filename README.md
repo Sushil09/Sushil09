@@ -2,7 +2,17 @@
 
 **Senior Software Engineer** | **Distributed Systems Architect** | **Backend Development Specialist**
 
-I'm passionate about designing and building scalable, high-performance backend systems that power real-world applications at scale. With **8+ years of experience** in backend software development, I specialize in crafting reliable, maintainable solutions to complex engineering challenges.
+Software Engineer with 8+ years of experience designing, building, and scaling high-performance distributed systems. I enjoy solving complex engineering problems, optimizing large-scale backend platforms, and building reliable systems that power millions of transactions.
+
+My expertise lies in Java, Spring Boot, Microservices, Distributed Systems, Kafka, SQL/NoSQL databases, Redis, and cloud-native architectures. Throughout my career, I've worked on designing scalable APIs, event-driven systems, caching strategies, messaging platforms, and highly available services with a strong focus on performance, reliability, and operational excellence.
+
+I have experience building systems from the ground up, improving system scalability, reducing latency, and driving architectural improvements across cloud environments. Alongside backend engineering, I'm comfortable working with Docker, Kubernetes, CI/CD pipelines, infrastructure automation, and observability tooling. I also have hands-on experience with React, enabling me to collaborate effectively across the full stack when required.
+
+Currently, I work as a Senior Software Engineer at Walmart, where I build and optimize services that power the last-mile delivery platform, helping improve driver matching, delivery efficiency, and customer experience at scale.
+
+I'm passionate about system design, distributed systems, backend architecture, and continuous learning. I enjoy collaborating with talented engineers, mentoring others, and solving challenging technical problems.
+
+Feel free to connect or reach out at **[sushil_official@outlook.com](mailto:sushil_official@outlook.com)**.
 
 ---
 
